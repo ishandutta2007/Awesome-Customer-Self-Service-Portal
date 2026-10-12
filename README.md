@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Customer-Self-Service-Portal/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Customer-Self-Service-Portal?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Customer-Self-Service-Portal/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Customer-Self-Service-Portal?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Customer-Self-Service-Portal/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Customer-Self-Service-Portal?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Customer-Self-Service-Portal/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Customer-Self-Service-Portal?color=blue" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Customer-Self-Service-Portal/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
@@ -70,63 +70,63 @@ The sector exhibits a **barbell structure with moderate concentration at the top
 
 ## 💻 Open-Source GitHub Projects
 
-Sorted descending by GitHub stars (with social star badges linking directly to each repository's stargazers page):
+Sorted descending by GitHub_Stars (with social Stars_Badges linking directly to each repository's stargazers page):
 
-1. **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
+1. **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
    Open-source customer engagement platform and omnichannel helpdesk (MIT). Features live chat, unified multi-channel inbox (email, WhatsApp, Twitter), team collaboration, customizable self-service help center/knowledge base, and rich client portals.
 
-2. **[Wiki.js](https://github.com/requarks/wiki)** [![GitHub stars](https://img.shields.io/github/stars/requarks/wiki?style=social&color=white)](https://github.com/requarks/wiki/stargazers)  
+2. **[Wiki.js](https://github.com/requarks/wiki)** [![GitHub_Stars](https://img.shields.io/github/stars/requarks/wiki?style=social&color=white)](https://github.com/requarks/wiki/stargazers)  
    Modern, extensible open-source wiki and documentation platform (AGPL-3.0) built on Node.js and PostgreSQL. Widely used for branded public and authenticated customer self-service knowledge portals, full-text search, and multi-lingual documentation.
 
-3. **[UVdesk Community Skeleton](https://github.com/uvdesk/community-skeleton)** [![GitHub stars](https://img.shields.io/github/stars/uvdesk/community-skeleton?style=social&color=white)](https://github.com/uvdesk/community-skeleton/stargazers)  
+3. **[UVdesk Community Skeleton](https://github.com/uvdesk/community-skeleton)** [![GitHub_Stars](https://img.shields.io/github/stars/uvdesk/community-skeleton?style=social&color=white)](https://github.com/uvdesk/community-skeleton/stargazers)  
    Full-featured open-source helpdesk system (MIT) built with Symfony and PHP. Features custom branding, self-service knowledge base, multi-mailbox support, ticket dispatch automations, agent roles, and an extensible workflow engine.
 
-4. **[BookStack](https://github.com/BookStackApp/BookStack)** [![GitHub stars](https://img.shields.io/github/stars/BookStackApp/BookStack?style=social&color=white)](https://github.com/BookStackApp/BookStack/stargazers)  
+4. **[BookStack](https://github.com/BookStackApp/BookStack)** [![GitHub_Stars](https://img.shields.io/github/stars/BookStackApp/BookStack?style=social&color=white)](https://github.com/BookStackApp/BookStack/stargazers)  
    Opinionated, simple and open-source documentation and knowledge base platform (MIT) built on PHP/Laravel. Ideal for organizing customer-facing help guides, manuals, and searchable support documentation with granular user permission roles.
 
-5. **[Answer](https://github.com/answerdev/answer)** [![GitHub stars](https://img.shields.io/github/stars/answerdev/answer?style=social&color=white)](https://github.com/answerdev/answer/stargazers)  
+5. **[Answer](https://github.com/answerdev/answer)** [![GitHub_Stars](https://img.shields.io/github/stars/answerdev/answer?style=social&color=white)](https://github.com/answerdev/answer/stargazers)  
    Open-source Q&A community platform (Apache-2.0) built with Go and React. Enables organizations to build interactive customer self-service community forums, technical support Q&A hubs, and peer-to-peer customer assistance ecosystems.
 
-6. **[Zammad](https://github.com/zammad/zammad)** [![GitHub stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
+6. **[Zammad](https://github.com/zammad/zammad)** [![GitHub_Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
    Enterprise-grade web-based customer support and ticketing system (AGPL-3.0) built with Ruby on Rails. Includes full customer self-service web portal, comprehensive knowledge base, omnichannel ticket routing, SLA management, and audit logging.
 
-7. **[FreeScout](https://github.com/freescout-helpdesk/freescout)** [![GitHub stars](https://img.shields.io/github/stars/freescout-helpdesk/freescout?style=social&color=white)](https://github.com/freescout-helpdesk/freescout/stargazers)  
+7. **[FreeScout](https://github.com/freescout-helpdesk/freescout)** [![GitHub_Stars](https://img.shields.io/github/stars/freescout-helpdesk/freescout?style=social&color=white)](https://github.com/freescout-helpdesk/freescout/stargazers)  
    Lightweight, privacy-focused open-source helpdesk and shared inbox (AGPL-3.0) written in PHP/Laravel (Zendesk / Help Scout alternative). Provides customer self-service portal modules, public/internal knowledge base modules, and live chat widgets.
 
-8. **[osTicket](https://github.com/osTicket/osTicket)** [![GitHub stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)  
+8. **[osTicket](https://github.com/osTicket/osTicket)** [![GitHub_Stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)  
    Battle-tested open-source support ticket system (GPL-2.0). Features customer web portal with ticket status tracking (with or without mandatory account registration), FAQ/knowledge base, auto-responders, and configurable ticket forms.
 
-9. **[Frappe Helpdesk](https://github.com/frappe/helpdesk)** [![GitHub stars](https://img.shields.io/github/stars/frappe/helpdesk?style=social&color=white)](https://github.com/frappe/helpdesk/stargazers)  
+9. **[Frappe Helpdesk](https://github.com/frappe/helpdesk)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/helpdesk?style=social&color=white)](https://github.com/frappe/helpdesk/stargazers)  
    Modern, streamlined open-source ticket management platform (GPL-3.0) built on Frappe and Vue 3. Features clean dual portals for agents and end customers, advanced knowledge base, customizable SLAs, canned replies, and turnkey Docker support.
 
-10. **[Helpy](https://github.com/helpyio/helpy)** [![GitHub stars](https://img.shields.io/github/stars/helpyio/helpy?style=social&color=white)](https://github.com/helpyio/helpy/stargazers)  
+10. **[Helpy](https://github.com/helpyio/helpy)** [![GitHub_Stars](https://img.shields.io/github/stars/helpyio/helpy?style=social&color=white)](https://github.com/helpyio/helpy/stargazers)  
     Mobile-friendly, modern open-source customer support application (MIT) built on Ruby on Rails. Features seamless customer self-service portal, multi-lingual knowledge base, customer community discussion forums, and multi-channel ticket management.
 
-11. **[Documize Community](https://github.com/documize/community)** [![GitHub stars](https://img.shields.io/github/stars/documize/community?style=social&color=white)](https://github.com/documize/community/stargazers)  
+11. **[Documize Community](https://github.com/documize/community)** [![GitHub_Stars](https://img.shields.io/github/stars/documize/community?style=social&color=white)](https://github.com/documize/community/stargazers)  
     Open-source enterprise knowledge management software (GPL-3.0) written in Go. Organizes internal and customer-facing support manuals, documentation snippets, and knowledge wikis with rich Markdown/rich-text authoring.
 
-12. **[Live Helper Chat](https://github.com/livehelperchat/livehelperchat)** [![GitHub stars](https://img.shields.io/github/stars/livehelperchat/livehelperchat?style=social&color=white)](https://github.com/livehelperchat/livehelperchat/stargazers)  
+12. **[Live Helper Chat](https://github.com/livehelperchat/livehelperchat)** [![GitHub_Stars](https://img.shields.io/github/stars/livehelperchat/livehelperchat?style=social&color=white)](https://github.com/livehelperchat/livehelperchat/stargazers)  
     Open-source live support and conversational ticketing system (Apache-2.0). Features embeddable customer self-service chat widgets, FAQ bots, proactive greetings, and customer account dashboard capabilities.
 
-13. **[Trudesk](https://github.com/polonel/trudesk)** [![GitHub stars](https://img.shields.io/github/stars/polonel/trudesk?style=social&color=white)](https://github.com/polonel/trudesk/stargazers)  
+13. **[Trudesk](https://github.com/polonel/trudesk)** [![GitHub_Stars](https://img.shields.io/github/stars/polonel/trudesk?style=social&color=white)](https://github.com/polonel/trudesk/stargazers)  
     Open-source helpdesk ticketing system (MIT) built with Node.js and MongoDB. Provides a customer-facing support portal, ticket tracking, integrated knowledge base management, and real-time push notifications.
 
-14. **[Faveo Helpdesk](https://github.com/ladybirdweb/faveo-helpdesk)** [![GitHub stars](https://img.shields.io/github/stars/ladybirdweb/faveo-helpdesk?style=social&color=white)](https://github.com/ladybirdweb/faveo-helpdesk/stargazers)  
+14. **[Faveo Helpdesk](https://github.com/ladybirdweb/faveo-helpdesk)** [![GitHub_Stars](https://img.shields.io/github/stars/ladybirdweb/faveo-helpdesk?style=social&color=white)](https://github.com/ladybirdweb/faveo-helpdesk/stargazers)  
     Customizable helpdesk solution (OSL-3.0) built on Laravel. Includes a responsive client self-service portal, knowledge base management, automated ticketing, and multi-language support.
 
-15. **[Request Tracker (RT)](https://github.com/bestpractical/rt)** [![GitHub stars](https://img.shields.io/github/stars/bestpractical/rt?style=social&color=white)](https://github.com/bestpractical/rt/stargazers)  
+15. **[Request Tracker (RT)](https://github.com/bestpractical/rt)** [![GitHub_Stars](https://img.shields.io/github/stars/bestpractical/rt?style=social&color=white)](https://github.com/bestpractical/rt/stargazers)  
     Enterprise-grade open-source issue tracking and ticketing system (GPL-2.0) by Best Practical. Offers self-service web interface for ticket creation/review, robust workflows, custom lifecycles, and fine-grained ACLs.
 
-16. **[OpenSupports](https://github.com/opensupports/opensupports)** [![GitHub stars](https://img.shields.io/github/stars/opensupports/opensupports?style=social&color=white)](https://github.com/opensupports/opensupports/stargazers)  
+16. **[OpenSupports](https://github.com/opensupports/opensupports)** [![GitHub_Stars](https://img.shields.io/github/stars/opensupports/opensupports?style=social&color=white)](https://github.com/opensupports/opensupports/stargazers)  
     Clean, responsive open-source support ticket platform (GPL-3.0) built with PHP and React. Features an intuitive self-service portal for ticket submission and tracking, knowledge base articles, and multi-language localization.
 
-17. **[Znuny](https://github.com/znuny/znuny)** [![GitHub stars](https://img.shields.io/github/stars/znuny/znuny?style=social&color=white)](https://github.com/znuny/znuny/stargazers)  
+17. **[Znuny](https://github.com/znuny/znuny)** [![GitHub_Stars](https://img.shields.io/github/stars/znuny/znuny?style=social&color=white)](https://github.com/znuny/znuny/stargazers)  
     Enterprise open-source service management system (GPL-3.0, fork of OTRS). Provides a customer self-service interface, knowledge management / FAQ modules, SLA timers, and deep ITIL service desk integration.
 
-18. **[Open Self Service (O2S)](https://github.com/o2sdev/openselfservice)** [![GitHub stars](https://img.shields.io/github/stars/o2sdev/openselfservice?style=social&color=white)](https://github.com/o2sdev/openselfservice/stargazers)  
+18. **[Open Self Service (O2S)](https://github.com/o2sdev/openselfservice)** [![GitHub_Stars](https://img.shields.io/github/stars/o2sdev/openselfservice?style=social&color=white)](https://github.com/o2sdev/openselfservice/stargazers)  
     Open-source composable framework for engineering custom customer self-service portals. Features Next.js frontend starter kit, API Harmonization Server (integrates Zendesk, Medusa, Strapi, Contentful), and 25+ pre-built React/TypeScript UI components.
 
-19. **[Umbraco Commerce Portal](https://github.com/umbraco/Umbraco.Commerce.Portal)** [![GitHub stars](https://img.shields.io/github/stars/umbraco/Umbraco.Commerce.Portal?style=social&color=white)](https://github.com/umbraco/Umbraco.Commerce.Portal/stargazers)  
+19. **[Umbraco Commerce Portal](https://github.com/umbraco/Umbraco.Commerce.Portal)** [![GitHub_Stars](https://img.shields.io/github/stars/umbraco/Umbraco.Commerce.Portal?style=social&color=white)](https://github.com/umbraco/Umbraco.Commerce.Portal/stargazers)  
     Open-source customer portal package for Umbraco (MIT). Enables .NET developers to deploy a self-service customer portal where shoppers can authenticate, view order statuses, and manage accounts.
 
 ---
