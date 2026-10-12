@@ -42,65 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Salesforce Self-Service Portal](https://www.salesforce.com/)**  
-
-  Experience Cloud-powered customer portal with knowledge base, case submission, and account management. Features Lightning Community Builder for drag-and-drop customization, role-based access control, and Einstein AI for personalized content recommendations .
-
-
-
-- **[Zendesk Guide](https://www.zendesk.com/)**  
-
-  Customer-facing self-service portal with knowledge base, community forum, and ticket tracking. Includes authoring environment for collaborative content management and multi-brand support.
-
-
-
-- **[Freshdesk Customer Portal](https://freshdesk.com/)**  
-
-  Branded self-service portal with knowledge base, forums, and ticket tracking. Features WCAG 2.0 AA compliant themes, multi-product support, and CAPTCHA/social login options.
-
-
-
-- **[Zoho Desk Portal](https://www.zoho.com/desk/)**  
-
-  Self-service help center with knowledge base, guided conversations, and AI-powered Zia assistance. Supports 50+ languages and embeddable widgets.
-
-
-
-- **[HubSpot Service Hub](https://www.hubspot.com/)**  
-
-  Customer portal with support form, ticket tracking, and knowledge base. Features organization-level ticket visibility and granular display controls within HubSpot CRM.
-
-
-
-- **[SupportPal](https://www.supportpal.com/)**  
-
-  Self-hosted help desk with customer portal, knowledge base, and multi-brand support. Features internal self-service types, social login (Facebook, Google, Twitter, Steam), 2FA for users, article feedback, and dark theme options .
-
-
-
-- **[Help Scout](https://www.helpscout.com/)**  
-
-  Customer Portal providing secure, authenticated web experience for customers to view and manage support history. Features one-time code login (no passwords) and organization-level visibility.
-
-
-
-- **[Deskpro](https://www.deskpro.com/)**  
-
-  Customer service solution with self-service portal, known issue management, multi-brand/multi-language support, and on-premise or cloud deployment options.
-
-
-
-- **[HappyFox](https://www.happyfox.com/)**  
-
-  Support Center with widget-based page builder, SEO optimization, multi-lingual support (39+ languages), GDPR compliance, and extensive customization via JavaScript/CSS.
-
-
-
-- **[TeamSupport](https://www.teamsupport.com/)**  
-
-  B2B customer support platform with customer portal, knowledge base, and ticket tracking. Features customer-specific views and SLA management.
+| Platform | Company Size / Valuation (Desc) | Pricing (Starting Tier) | Free Tier / Free Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Salesforce Self-Service Portal](https://www.salesforce.com/)** | ~$280B+ Market Cap (~$38B Annual Revenue) | $25 / user / month (Starter Suite, billed annually) | 30-day free trial; full access to Starter Suite features with sample data; no credit card required | Experience Cloud-powered customer portal with knowledge base, case submission, and account management. Features Lightning Community Builder for drag-and-drop customization, role-based access control, and Einstein AI for personalized content recommendations. |
+| **[HubSpot Service Hub](https://www.hubspot.com/)** | ~$30B+ Market Cap (~$2.6B Annual Revenue) | $15 / seat / month (Starter plan, billed annually) | Free-for-ever plan limited to up to 5 users, basic ticketing, 1 shared inbox, and standard closed ticket reporting (Customer Portal feature requires Service Hub Pro/Enterprise or trial; 14-day free trial for Pro) | Customer portal with support form, ticket tracking, and knowledge base. Features organization-level ticket visibility and granular display controls within HubSpot CRM. |
+| **[Zendesk Guide](https://www.zendesk.com/)** | ~$10.2B Valuation (Acquired by Hellman & Friedman, ~$1.7B Revenue) | $19 / agent / month (Support Team, billed annually) | 14-day free trial; full access to Zendesk Suite features across all channels; no credit card required | Customer-facing self-service portal with knowledge base, community forum, and ticket tracking. Includes authoring environment for collaborative content management and multi-brand support. |
+| **[Zoho Desk Portal](https://www.zoho.com/desk/)** | ~$1.4B Annual Revenue (Privately held, ~$10B+ Valuation) | $14 / user / month (Standard plan, billed annually) | Free-for-ever plan limited to 3 free agents, email ticketing, private knowledge base, and standard macros; 15-day free trial for paid tiers with no credit card required | Self-service help center with knowledge base, guided conversations, and AI-powered Zia assistance. Supports 50+ languages and embeddable widgets. |
+| **[Freshdesk Customer Portal](https://freshdesk.com/)** | ~$6B+ Market Cap (~$700M+ Annual Revenue) | $15 / agent / month (Growth plan, billed annually) | Free-for-ever plan limited to up to 10 agents, integrated email/social ticketing, ticket dispatch, and basic knowledge base; 14-day free trial for paid tiers | Branded self-service portal with knowledge base, forums, and ticket tracking. Features WCAG 2.0 AA compliant themes, multi-product support, and CAPTCHA/social login options. |
+| **[Help Scout](https://www.helpscout.com/)** | ~$35M+ ARR (Privately held, backed by Riverside) | $22 / user / month (Standard plan, billed annually) | 15-day free trial; full feature access including up to 2 mailboxes, 1 Docs site, and live chat beacon; no credit card required | Customer Portal providing secure, authenticated web experience for customers to view and manage support history. Features one-time code login (no passwords) and organization-level visibility. |
+| **[TeamSupport](https://www.teamsupport.com/)** | ~$15M – $25M ARR (Level Equity backed) | $29 / agent / month (Essential Messaging & Support, billed annually) | 14-day free trial; access to core ticketing and support collaboration tools; no credit card required | B2B customer support platform with customer portal, knowledge base, and ticket tracking. Features customer-specific views and SLA management. |
+| **[HappyFox](https://www.happyfox.com/)** | ~$18M – $20M ARR (Privately held, Bootstrapped) | $24 / agent / month (Basic plan, billed annually) | 14-day free trial; full functionality across ticketing and support center; no credit card required | Support Center with widget-based page builder, SEO optimization, multi-lingual support (39+ languages), GDPR compliance, and extensive customization via JavaScript/CSS. |
+| **[Deskpro](https://www.deskpro.com/)** | ~$25M Series A (~$8M – $12M ARR) | $39 / agent / month (Team plan, min 3–5 agents, billed annually) | 14-day free trial; full feature access to Deskpro Cloud; no credit card required | Customer service solution with self-service portal, known issue management, multi-brand/multi-language support, and on-premise or cloud deployment options. |
+| **[SupportPal](https://www.supportpal.com/)** | Privately held / Bootstrapped (<$5M ARR) | $29.95 / month (per brand, unlimited operators, self-hosted) | 30-day free trial; evaluation license for 1 organization on self-hosted deployment; no credit card required | Self-hosted help desk with customer portal, knowledge base, and multi-brand support. Features internal self-service types, social login (Facebook, Google, Twitter, Steam), 2FA for users, article feedback, and dark theme options. |
 
 
 
