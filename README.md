@@ -1,46 +1,57 @@
-# Awesome-Customer-Self-Service-Portal
+# Awesome Customer Self-Service Portal 🚀
 
-## Top Customer Self-Service Portal Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Customer Self-Service Portal Banner" width="100%" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Customer-Self-Service-Portal/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Customer-Self-Service-Portal?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Customer-Self-Service-Portal/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Customer-Self-Service-Portal?style=social" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Customer-Self-Service-Portal/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Customer-Self-Service-Portal?color=blue" alt="Issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Customer-Self-Service-Portal/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+---
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+## 🌟 Top Customer Self-Service Portal Ecosystem
 
-*Focused on Self-Service Knowledge Bases, Ticket Submission & Customer Account Management*  
+> **A Curated List of SaaS Platforms & Self-Hosted Open-Source GitHub Projects**  
+> *Focused on Self-Service Knowledge Bases, Automated Ticket Resolution, Help Desks & Customer Account Portals*  
+> **Last updated: March 2026** 📅
 
-**Last updated: March 2026**
+This repository tracks notable **SaaS platforms** and **open-source projects** for **Customer Self-Service Portals**. These tools empower organizations to deliver branded, authenticated self-service environments where customers can search knowledge bases, submit and track support tickets, and manage account details independently — driving down support ticket volume, slashing operational costs, and boosting customer satisfaction (CSAT).
 
+**Keywords & SEO Highlights:** Customer Self-Service Portal, Help Desk Software, Open Source Ticketing System, Self-Hosted Knowledge Base, Customer Support Portal, Omnichannel Support, SaaS Helpdesk Pricing, IT Service Management (ITSM), Community Forum, Client Account Portal.
 
+---
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Customer Self-Service Portals**. These tools enable organizations to offer customers a branded, authenticated space to find answers, submit support tickets, track request status, and manage account details without contacting an agent — reducing support volume and improving satisfaction.
+## 📑 Table of Contents
 
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS/Hosted Platforms](#️-saashosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
+- [📜 Disclaimer](#-disclaimer)
 
+---
 
-**Examples** include Salesforce Self-Service Portal, Zendesk Guide, Freshdesk Customer Portal, Zoho Desk Portal, HubSpot Service Hub, SupportPal, Help Scout, Deskpro, HappyFox, and TeamSupport (the category leaders).
+## 📊 Sector Overview & Market Dynamics
 
+The global **Customer Self-Service (CSS) software market** is estimated at **$18B – $26B in 2025–2026** (scaling to over **$55B – $65B by 2030** at an estimated CAGR of ~15–21%), accelerated by generative AI agents, conversational search, and automated ticket deflections.
 
+**Market Concentration & Structure:**
+The sector exhibits a **barbell structure with moderate concentration at the top and high fragmentation in specialized verticals**:
+- **Concentrated Enterprise Tier:** An oligopolistic core of CRM and CX enterprise giants (Salesforce, Zendesk, ServiceNow, HubSpot, Freshworks) commands the lion's share of enterprise budgets, leveraging proprietary ecosystems and AI co-pilots.
+- **Fragmented Innovation Tier:** The market remains highly fragmented among mid-market contenders, niche vertical solutions (e.g., B2B-specific platforms like TeamSupport), and privacy-first **self-hosted open-source alternatives** (such as Chatwoot, FreeScout, and Zammad) catering to teams prioritizing data sovereignty, on-premise compliance, and zero vendor lock-in.
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, custom portal frontends, and open helpdesk infrastructure — ideal for organizations seeking transparent, data-sovereign customer self-service.
+---
 
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
+## ☁️ SaaS/Hosted Platforms
 
 | Platform | Company Size / Valuation (Desc) | Pricing (Starting Tier) | Free Tier / Free Trial Limits | Description |
 | :--- | :--- | :--- | :--- | :--- |
@@ -53,128 +64,120 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[TeamSupport](https://www.teamsupport.com/)** | ~$15M – $25M ARR (Level Equity backed) | $29 / agent / month (Essential Messaging & Support, billed annually) | 14-day free trial; access to core ticketing and support collaboration tools; no credit card required | B2B customer support platform with customer portal, knowledge base, and ticket tracking. Features customer-specific views and SLA management. |
 | **[HappyFox](https://www.happyfox.com/)** | ~$18M – $20M ARR (Privately held, Bootstrapped) | $24 / agent / month (Basic plan, billed annually) | 14-day free trial; full functionality across ticketing and support center; no credit card required | Support Center with widget-based page builder, SEO optimization, multi-lingual support (39+ languages), GDPR compliance, and extensive customization via JavaScript/CSS. |
 | **[Deskpro](https://www.deskpro.com/)** | ~$25M Series A (~$8M – $12M ARR) | $39 / agent / month (Team plan, min 3–5 agents, billed annually) | 14-day free trial; full feature access to Deskpro Cloud; no credit card required | Customer service solution with self-service portal, known issue management, multi-brand/multi-language support, and on-premise or cloud deployment options. |
-| **[SupportPal](https://www.supportpal.com/)** | Privately held / Bootstrapped (<$5M ARR) | $29.95 / month (per brand, unlimited operators, self-hosted) | 30-day free trial; evaluation license for 1 organization on self-hosted deployment; no credit card required | Self-hosted help desk with customer portal, knowledge base, and multi-brand support. Features internal self-service types, social login (Facebook, Google, Twitter, Steam), 2FA for users, article feedback, and dark theme options. |
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[Open Self Service (O2S)](https://github.com/o2sdev/openselfservice)**  
-
-  Open-source composable framework for building customer self-service portals (license varies). Features Next.js frontend starter, API Harmonization Server for integrating multiple headless backends (Strapi, Contentful, Medusa, Zendesk), TypeScript SDK, 25+ pre-built UI blocks, and full extensibility. API-agnostic design prevents vendor lock-in. 122+ GitHub stars .
-
-
-
-- **[Frappe Helpdesk](https://github.com/frappe/helpdesk)**  
-
-  Modern, streamlined, 100% open-source ticket management tool. Features dual portals for agents and customers, customizable SLAs, assignment rules, knowledge base with advanced search, saved replies, and production-ready Docker deployment. Built on Frappe Framework with Vue-based UI .
-
-
-
-- **[Znuny](https://github.com/znuny/znuny)**  
-
-  Fully customizable open-source help desk platform (fork of OTRS). Features customer interface for self-service, FAQ/knowledge base, ticket creation via portal/email/phone, SLA management, and 3rd-party system integration (CRM, catalogues, databases). Community-driven with on-premise or cloud deployment .
-
-
-
-- **[osTicket](https://github.com/osTicket/osTicket)**  
-
-  Widely-used open-source support ticket system (GPL-2.0). Features customer portal with email/ticket ID login (no account required), knowledge base, autoresponder, SLA support, and ticket filters. Simple, lightweight, and reliable with extensive install base .
-
-
-
-- **[UVdesk](https://github.com/uvdesk/community-skeleton)**  
-
-  Open-source helpdesk system (MIT) built on Symfony. Features branding customization, knowledge base, mailbox configuration, saved replies, ticket formation/management, user management, and workflow automation. Highly customizable for complex customer support requirements .
-
-
-
-- **[Spine Framework Portal](https://www.npmjs.com/package/spine-framework-portal)**  
-
-  Customer-facing self-service app for Spine Framework (license varies). Features ticket submission/tracking, knowledge base with search, courses, community discussions, and marketplace integration — all under your brand. Configurable registration behavior and route prefix .
-
-
-
-- **[Umbraco Commerce Portal](https://github.com/umbraco/Umbraco.Commerce.Portal)**  
-
-  Free and open-source add-on package for Umbraco Commerce (MIT). Provides no-code solution for creating a customer portal where users can log in, manage profiles, and view order history. Integrated with Umbraco Commerce stores .
-
-
-
-- **[Zammad](https://github.com/zammad/zammad)**  
-
-  Open-source helpdesk and customer support platform (AGPL-3.0). Features ticketing, live chat, telephony integration, knowledge base, and multi-channel support with customer portal.
-
-
-
-- **[Chatwoot](https://github.com/chatwoot/chatwoot)**  
-
-  Open-source customer engagement platform (MIT) with omnichannel inbox. Can be extended with knowledge base functionality and customer-facing portal components.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[FreeScout](https://github.com/freescout-helpdesk/freescout)** — Open-source help desk and shared inbox (AGPL-3.0) with customer portal capabilities.
-
-- **[Helpy](https://github.com/helpyio/helpy)** — Open-source helpdesk platform (MIT) with multi-channel support and community forums.
-
-- **[Trudesk](https://github.com/polonel/trudesk)** — Open-source helpdesk solution (MIT) with ticket management and customer portal.
-
-- **[Faveo Helpdesk](https://github.com/ladybirdweb/faveo-helpdesk)** — Open-source helpdesk and ticketing system (OSL-3.0) with customer portal and knowledge base.
-
-- **[OpenSupports](https://github.com/opensupports/opensupports)** — Open-source ticket system (GPL-3.0) with customer portal and knowledge base.
-
-- **[Hesk](https://github.com/hesk/hesk)** — Lightweight open-source help desk (GPL-2.0) with customer portal and knowledge base.
-
-- Community **WordPress Knowledge Base** plugins for self-hosted support portals.
-
-- **Grafana** and **Metabase** for support analytics dashboards.
-
-
-
-**Frameworks for building custom systems**: Combine **Open Self Service (O2S)** as the composable frontend with **Frappe Helpdesk** or **Znuny** as the ticketing engine, **Zammad** for omnichannel support, and **PostgreSQL** for persistence — creating a fully self-hosted, enterprise-grade customer self-service portal platform.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Customer self-service portals handling personal data must comply with data protection regulations (GDPR, CCPA, HIPAA, etc.).
-
-- Self-hosted open-source solutions require proper security hardening, SSL configuration, and ongoing maintenance for production reliability.
-
-
+| **[SupportPal](https://www.supportPal.com/)** | Privately held / Bootstrapped (<$5M ARR) | $29.95 / month (per brand, unlimited operators, self-hosted) | 30-day free trial; evaluation license for 1 organization on self-hosted deployment; no credit card required | Self-hosted help desk with customer portal, knowledge base, and multi-brand support. Features internal self-service types, social login (Facebook, Google, Twitter, Steam), 2FA for users, article feedback, and dark theme options. |
 
 ---
 
+## 💻 Open-Source GitHub Projects
 
+Sorted descending by GitHub stars (with social star badges linking directly to each repository's stargazers page):
 
-**Made for support teams, customer experience managers, IT administrators, and developers building transparent customer self-service solutions.**  
+1. **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
+   Open-source customer engagement platform and omnichannel helpdesk (MIT). Features live chat, unified multi-channel inbox (email, WhatsApp, Twitter), team collaboration, customizable self-service help center/knowledge base, and rich client portals.
 
-Let's make customer self-service portals more open, data-driven, and efficient.
+2. **[Wiki.js](https://github.com/requarks/wiki)** [![GitHub stars](https://img.shields.io/github/stars/requarks/wiki?style=social&color=white)](https://github.com/requarks/wiki/stargazers)  
+   Modern, extensible open-source wiki and documentation platform (AGPL-3.0) built on Node.js and PostgreSQL. Widely used for branded public and authenticated customer self-service knowledge portals, full-text search, and multi-lingual documentation.
+
+3. **[UVdesk Community Skeleton](https://github.com/uvdesk/community-skeleton)** [![GitHub stars](https://img.shields.io/github/stars/uvdesk/community-skeleton?style=social&color=white)](https://github.com/uvdesk/community-skeleton/stargazers)  
+   Full-featured open-source helpdesk system (MIT) built with Symfony and PHP. Features custom branding, self-service knowledge base, multi-mailbox support, ticket dispatch automations, agent roles, and an extensible workflow engine.
+
+4. **[BookStack](https://github.com/BookStackApp/BookStack)** [![GitHub stars](https://img.shields.io/github/stars/BookStackApp/BookStack?style=social&color=white)](https://github.com/BookStackApp/BookStack/stargazers)  
+   Opinionated, simple and open-source documentation and knowledge base platform (MIT) built on PHP/Laravel. Ideal for organizing customer-facing help guides, manuals, and searchable support documentation with granular user permission roles.
+
+5. **[Answer](https://github.com/answerdev/answer)** [![GitHub stars](https://img.shields.io/github/stars/answerdev/answer?style=social&color=white)](https://github.com/answerdev/answer/stargazers)  
+   Open-source Q&A community platform (Apache-2.0) built with Go and React. Enables organizations to build interactive customer self-service community forums, technical support Q&A hubs, and peer-to-peer customer assistance ecosystems.
+
+6. **[Zammad](https://github.com/zammad/zammad)** [![GitHub stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
+   Enterprise-grade web-based customer support and ticketing system (AGPL-3.0) built with Ruby on Rails. Includes full customer self-service web portal, comprehensive knowledge base, omnichannel ticket routing, SLA management, and audit logging.
+
+7. **[FreeScout](https://github.com/freescout-helpdesk/freescout)** [![GitHub stars](https://img.shields.io/github/stars/freescout-helpdesk/freescout?style=social&color=white)](https://github.com/freescout-helpdesk/freescout/stargazers)  
+   Lightweight, privacy-focused open-source helpdesk and shared inbox (AGPL-3.0) written in PHP/Laravel (Zendesk / Help Scout alternative). Provides customer self-service portal modules, public/internal knowledge base modules, and live chat widgets.
+
+8. **[osTicket](https://github.com/osTicket/osTicket)** [![GitHub stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)  
+   Battle-tested open-source support ticket system (GPL-2.0). Features customer web portal with ticket status tracking (with or without mandatory account registration), FAQ/knowledge base, auto-responders, and configurable ticket forms.
+
+9. **[Frappe Helpdesk](https://github.com/frappe/helpdesk)** [![GitHub stars](https://img.shields.io/github/stars/frappe/helpdesk?style=social&color=white)](https://github.com/frappe/helpdesk/stargazers)  
+   Modern, streamlined open-source ticket management platform (GPL-3.0) built on Frappe and Vue 3. Features clean dual portals for agents and end customers, advanced knowledge base, customizable SLAs, canned replies, and turnkey Docker support.
+
+10. **[Helpy](https://github.com/helpyio/helpy)** [![GitHub stars](https://img.shields.io/github/stars/helpyio/helpy?style=social&color=white)](https://github.com/helpyio/helpy/stargazers)  
+    Mobile-friendly, modern open-source customer support application (MIT) built on Ruby on Rails. Features seamless customer self-service portal, multi-lingual knowledge base, customer community discussion forums, and multi-channel ticket management.
+
+11. **[Documize Community](https://github.com/documize/community)** [![GitHub stars](https://img.shields.io/github/stars/documize/community?style=social&color=white)](https://github.com/documize/community/stargazers)  
+    Open-source enterprise knowledge management software (GPL-3.0) written in Go. Organizes internal and customer-facing support manuals, documentation snippets, and knowledge wikis with rich Markdown/rich-text authoring.
+
+12. **[Live Helper Chat](https://github.com/livehelperchat/livehelperchat)** [![GitHub stars](https://img.shields.io/github/stars/livehelperchat/livehelperchat?style=social&color=white)](https://github.com/livehelperchat/livehelperchat/stargazers)  
+    Open-source live support and conversational ticketing system (Apache-2.0). Features embeddable customer self-service chat widgets, FAQ bots, proactive greetings, and customer account dashboard capabilities.
+
+13. **[Trudesk](https://github.com/polonel/trudesk)** [![GitHub stars](https://img.shields.io/github/stars/polonel/trudesk?style=social&color=white)](https://github.com/polonel/trudesk/stargazers)  
+    Open-source helpdesk ticketing system (MIT) built with Node.js and MongoDB. Provides a customer-facing support portal, ticket tracking, integrated knowledge base management, and real-time push notifications.
+
+14. **[Faveo Helpdesk](https://github.com/ladybirdweb/faveo-helpdesk)** [![GitHub stars](https://img.shields.io/github/stars/ladybirdweb/faveo-helpdesk?style=social&color=white)](https://github.com/ladybirdweb/faveo-helpdesk/stargazers)  
+    Customizable helpdesk solution (OSL-3.0) built on Laravel. Includes a responsive client self-service portal, knowledge base management, automated ticketing, and multi-language support.
+
+15. **[Request Tracker (RT)](https://github.com/bestpractical/rt)** [![GitHub stars](https://img.shields.io/github/stars/bestpractical/rt?style=social&color=white)](https://github.com/bestpractical/rt/stargazers)  
+    Enterprise-grade open-source issue tracking and ticketing system (GPL-2.0) by Best Practical. Offers self-service web interface for ticket creation/review, robust workflows, custom lifecycles, and fine-grained ACLs.
+
+16. **[OpenSupports](https://github.com/opensupports/opensupports)** [![GitHub stars](https://img.shields.io/github/stars/opensupports/opensupports?style=social&color=white)](https://github.com/opensupports/opensupports/stargazers)  
+    Clean, responsive open-source support ticket platform (GPL-3.0) built with PHP and React. Features an intuitive self-service portal for ticket submission and tracking, knowledge base articles, and multi-language localization.
+
+17. **[Znuny](https://github.com/znuny/znuny)** [![GitHub stars](https://img.shields.io/github/stars/znuny/znuny?style=social&color=white)](https://github.com/znuny/znuny/stargazers)  
+    Enterprise open-source service management system (GPL-3.0, fork of OTRS). Provides a customer self-service interface, knowledge management / FAQ modules, SLA timers, and deep ITIL service desk integration.
+
+18. **[Open Self Service (O2S)](https://github.com/o2sdev/openselfservice)** [![GitHub stars](https://img.shields.io/github/stars/o2sdev/openselfservice?style=social&color=white)](https://github.com/o2sdev/openselfservice/stargazers)  
+    Open-source composable framework for engineering custom customer self-service portals. Features Next.js frontend starter kit, API Harmonization Server (integrates Zendesk, Medusa, Strapi, Contentful), and 25+ pre-built React/TypeScript UI components.
+
+19. **[Umbraco Commerce Portal](https://github.com/umbraco/Umbraco.Commerce.Portal)** [![GitHub stars](https://img.shields.io/github/stars/umbraco/Umbraco.Commerce.Portal?style=social&color=white)](https://github.com/umbraco/Umbraco.Commerce.Portal/stargazers)  
+    Open-source customer portal package for Umbraco (MIT). Enables .NET developers to deploy a self-service customer portal where shoppers can authenticate, view order statuses, and manage accounts.
+
+---
+
+### 🧩 Architectural Framework for Custom Portals
+
+For engineering teams constructing proprietary, sovereign customer portals:
+- **Frontend / Portal UI:** Deploy **[Open Self Service (O2S)](https://github.com/o2sdev/openselfservice)** (Next.js / React) or customized Vue frontends.
+- **Ticketing & Case Engine:** Integrate **[Chatwoot](https://github.com/chatwoot/chatwoot)** or **[Zammad](https://github.com/zammad/zammad)** via REST/GraphQL APIs.
+- **Knowledge Base & Documentation:** Connect **[BookStack](https://github.com/BookStackApp/BookStack)** or **[Wiki.js](https://github.com/requarks/wiki)**.
+- **Community Support Hub:** Embed **[Answer](https://github.com/answerdev/answer)** for customer peer discussions.
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are welcome and encouraged! To submit a new tool or suggest improvements:
+
+1. 🍴 **Fork** this repository.
+2. 🌿 Create a descriptive feature branch (`git checkout -b add-new-portal`).
+3. ✍️ Add or update entries in `README.md` following the established tabular or list format.
+4. 🔍 Ensure descriptions are objective and include official URLs and license/pricing specifications.
+5. 🚀 Commit your changes and open a **Pull Request** with a brief summary of what was added.
+
+---
+
+## 💖 Support
+
+If you find this curated ecosystem list helpful, please consider supporting the project:
+
+- ⭐ **Star this repository** to show your appreciation and help others discover it!
+- 🍴 **Fork and share** it with your fellow developers, DevOps engineers, and support teams.
+- ☕ **Buy me a coffee / Sponsor:** Support ongoing maintenance and research on the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Customer-Self-Service-Portal&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Customer-Self-Service-Portal&type=date&legend=top-left)
+
+---
+
+## 📜 Disclaimer
+
+- This is a community-curated directory intended for research, architectural planning, and software evaluation.
+- Customer self-service portals handling customer PII must comply with regional data protection standards (GDPR, CCPA, HIPAA, etc.).
+- Self-hosted open-source software requires routine security audits, backup strategies, and infrastructure hardening prior to production deployment.
+
+---
+
+<p align="center">
+  <b>Built for Support Engineers, CX Directors, Solutions Architects, and Open-Source Advocates.</b><br/>
+  <i>Empowering organizations to build transparent, cost-efficient, and data-sovereign customer self-service portals.</i>
+</p>
